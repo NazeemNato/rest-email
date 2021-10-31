@@ -1,3 +1,3 @@
 # Send rest mail 😆
 
-Send mail from rest api using express.js and notifier.
+Send mail from rest api using express.js and notifire.
